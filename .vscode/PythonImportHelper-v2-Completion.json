@@ -1,0 +1,518 @@
+[
+    {
+        "label": "time",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "time",
+        "description": "time",
+        "detail": "time",
+        "documentation": {}
+    },
+    {
+        "label": "sleep",
+        "importPath": "time",
+        "description": "time",
+        "isExtraImport": true,
+        "detail": "time",
+        "documentation": {}
+    },
+    {
+        "label": "TelegramClient",
+        "importPath": "telethon.sync",
+        "description": "telethon.sync",
+        "isExtraImport": true,
+        "detail": "telethon.sync",
+        "documentation": {}
+    },
+    {
+        "label": "TelegramClient",
+        "importPath": "telethon.sync",
+        "description": "telethon.sync",
+        "isExtraImport": true,
+        "detail": "telethon.sync",
+        "documentation": {}
+    },
+    {
+        "label": "TelegramClient",
+        "importPath": "telethon.sync",
+        "description": "telethon.sync",
+        "isExtraImport": true,
+        "detail": "telethon.sync",
+        "documentation": {}
+    },
+    {
+        "label": "GetDialogsRequest",
+        "importPath": "telethon.tl.functions.messages",
+        "description": "telethon.tl.functions.messages",
+        "isExtraImport": true,
+        "detail": "telethon.tl.functions.messages",
+        "documentation": {}
+    },
+    {
+        "label": "GetDialogsRequest",
+        "importPath": "telethon.tl.functions.messages",
+        "description": "telethon.tl.functions.messages",
+        "isExtraImport": true,
+        "detail": "telethon.tl.functions.messages",
+        "documentation": {}
+    },
+    {
+        "label": "InputPeerEmpty",
+        "importPath": "telethon.tl.types",
+        "description": "telethon.tl.types",
+        "isExtraImport": true,
+        "detail": "telethon.tl.types",
+        "documentation": {}
+    },
+    {
+        "label": "InputPeerChannel",
+        "importPath": "telethon.tl.types",
+        "description": "telethon.tl.types",
+        "isExtraImport": true,
+        "detail": "telethon.tl.types",
+        "documentation": {}
+    },
+    {
+        "label": "InputPeerUser",
+        "importPath": "telethon.tl.types",
+        "description": "telethon.tl.types",
+        "isExtraImport": true,
+        "detail": "telethon.tl.types",
+        "documentation": {}
+    },
+    {
+        "label": "InputPeerUser",
+        "importPath": "telethon.tl.types",
+        "description": "telethon.tl.types",
+        "isExtraImport": true,
+        "detail": "telethon.tl.types",
+        "documentation": {}
+    },
+    {
+        "label": "InputPeerEmpty",
+        "importPath": "telethon.tl.types",
+        "description": "telethon.tl.types",
+        "isExtraImport": true,
+        "detail": "telethon.tl.types",
+        "documentation": {}
+    },
+    {
+        "label": "PeerFloodError",
+        "importPath": "telethon.errors.rpcerrorlist",
+        "description": "telethon.errors.rpcerrorlist",
+        "isExtraImport": true,
+        "detail": "telethon.errors.rpcerrorlist",
+        "documentation": {}
+    },
+    {
+        "label": "UserPrivacyRestrictedError",
+        "importPath": "telethon.errors.rpcerrorlist",
+        "description": "telethon.errors.rpcerrorlist",
+        "isExtraImport": true,
+        "detail": "telethon.errors.rpcerrorlist",
+        "documentation": {}
+    },
+    {
+        "label": "PeerFloodError",
+        "importPath": "telethon.errors.rpcerrorlist",
+        "description": "telethon.errors.rpcerrorlist",
+        "isExtraImport": true,
+        "detail": "telethon.errors.rpcerrorlist",
+        "documentation": {}
+    },
+    {
+        "label": "InviteToChannelRequest",
+        "importPath": "telethon.tl.functions.channels",
+        "description": "telethon.tl.functions.channels",
+        "isExtraImport": true,
+        "detail": "telethon.tl.functions.channels",
+        "documentation": {}
+    },
+    {
+        "label": "configparser",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "configparser",
+        "description": "configparser",
+        "detail": "configparser",
+        "documentation": {}
+    },
+    {
+        "label": "os,",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os.",
+        "description": "os.",
+        "detail": "os.",
+        "documentation": {}
+    },
+    {
+        "label": "csv",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "csv",
+        "description": "csv",
+        "detail": "csv",
+        "documentation": {}
+    },
+    {
+        "label": "traceback",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "traceback",
+        "description": "traceback",
+        "detail": "traceback",
+        "documentation": {}
+    },
+    {
+        "label": "random",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "random",
+        "description": "random",
+        "detail": "random",
+        "documentation": {}
+    },
+    {
+        "label": "banner",
+        "kind": 2,
+        "importPath": "Operator.Adder",
+        "description": "Operator.Adder",
+        "peekOfCode": "def banner():\n    print(f\"\"\"\n{re} ___  _  _  ____  ____  {cy}  ___  _____  ____    \n{re}/ __)( )/ )(_  _)(  _ \\ {cy} / __)(  _  )(  _ \\   \n{re}\\__ \\ )  (  _)(_  )(_) ){cy}( (_-. )(_)(  )(_) )  \n{re}(___/(_)\\_)(____)(____/ {cy} \\___/(_____)(____/   \n            version : 2.1.0.1\n    https://youtube.com/@skidgod4444/\n    https://github.com/SkidGod4444/\n    https://discord.gg/sputnik",
+        "detail": "Operator.Adder",
+        "documentation": {}
+    },
+    {
+        "label": "cpass",
+        "kind": 5,
+        "importPath": "Operator.Adder",
+        "description": "Operator.Adder",
+        "peekOfCode": "cpass = configparser.RawConfigParser()\ncpass.read('config.data')\ntry:\n    api_id = cpass['cred']['id']\n    api_hash = cpass['cred']['hash']\n    phone = cpass['cred']['phone']\n    client = TelegramClient(phone, api_id, api_hash)\nexcept KeyError:\n    os.system('clear')\n    banner()",
+        "detail": "Operator.Adder",
+        "documentation": {}
+    },
+    {
+        "label": "input_file",
+        "kind": 5,
+        "importPath": "Operator.Adder",
+        "description": "Operator.Adder",
+        "peekOfCode": "input_file = sys.argv[1]\nusers = []\nwith open(input_file, encoding='UTF-8') as f:\n    rows = csv.reader(f,delimiter=\",\",lineterminator=\"\\n\")\n    next(rows, None)\n    for row in rows:\n        user = {}\n        user['username'] = row[0]\n        user['id'] = int(row[1])\n        user['access_hash'] = int(row[2])",
+        "detail": "Operator.Adder",
+        "documentation": {}
+    },
+    {
+        "label": "users",
+        "kind": 5,
+        "importPath": "Operator.Adder",
+        "description": "Operator.Adder",
+        "peekOfCode": "users = []\nwith open(input_file, encoding='UTF-8') as f:\n    rows = csv.reader(f,delimiter=\",\",lineterminator=\"\\n\")\n    next(rows, None)\n    for row in rows:\n        user = {}\n        user['username'] = row[0]\n        user['id'] = int(row[1])\n        user['access_hash'] = int(row[2])\n        user['name'] = row[3]",
+        "detail": "Operator.Adder",
+        "documentation": {}
+    },
+    {
+        "label": "chats",
+        "kind": 5,
+        "importPath": "Operator.Adder",
+        "description": "Operator.Adder",
+        "peekOfCode": "chats = []\nlast_date = None\nchunk_size = 200\ngroups=[]\nresult = client(GetDialogsRequest(\n            offset_date=last_date,\n            offset_id=0,\n            offset_peer=InputPeerEmpty(),\n            limit=chunk_size,\n            hash = 0",
+        "detail": "Operator.Adder",
+        "documentation": {}
+    },
+    {
+        "label": "last_date",
+        "kind": 5,
+        "importPath": "Operator.Adder",
+        "description": "Operator.Adder",
+        "peekOfCode": "last_date = None\nchunk_size = 200\ngroups=[]\nresult = client(GetDialogsRequest(\n            offset_date=last_date,\n            offset_id=0,\n            offset_peer=InputPeerEmpty(),\n            limit=chunk_size,\n            hash = 0\n        ))",
+        "detail": "Operator.Adder",
+        "documentation": {}
+    },
+    {
+        "label": "chunk_size",
+        "kind": 5,
+        "importPath": "Operator.Adder",
+        "description": "Operator.Adder",
+        "peekOfCode": "chunk_size = 200\ngroups=[]\nresult = client(GetDialogsRequest(\n            offset_date=last_date,\n            offset_id=0,\n            offset_peer=InputPeerEmpty(),\n            limit=chunk_size,\n            hash = 0\n        ))\nchats.extend(result.chats)",
+        "detail": "Operator.Adder",
+        "documentation": {}
+    },
+    {
+        "label": "result",
+        "kind": 5,
+        "importPath": "Operator.Adder",
+        "description": "Operator.Adder",
+        "peekOfCode": "result = client(GetDialogsRequest(\n            offset_date=last_date,\n            offset_id=0,\n            offset_peer=InputPeerEmpty(),\n            limit=chunk_size,\n            hash = 0\n        ))\nchats.extend(result.chats)\nfor chat in chats:\n    try:",
+        "detail": "Operator.Adder",
+        "documentation": {}
+    },
+    {
+        "label": "g_index",
+        "kind": 5,
+        "importPath": "Operator.Adder",
+        "description": "Operator.Adder",
+        "peekOfCode": "g_index = input(gr+\"[+] Enter a Number : \"+re)\ntarget_group=groups[int(g_index)]\ntarget_group_entity = InputPeerChannel(target_group.id,target_group.access_hash)\nprint(gr+\"[1] add member by user ID\\n[2] add member by username \")\nmode = int(input(gr+\"Input : \"+re)) \nn = 0\nfor user in users:\n    n += 1\n    if n % 50 == 0:\n        sleep(1)",
+        "detail": "Operator.Adder",
+        "documentation": {}
+    },
+    {
+        "label": "target_group_entity",
+        "kind": 5,
+        "importPath": "Operator.Adder",
+        "description": "Operator.Adder",
+        "peekOfCode": "target_group_entity = InputPeerChannel(target_group.id,target_group.access_hash)\nprint(gr+\"[1] add member by user ID\\n[2] add member by username \")\nmode = int(input(gr+\"Input : \"+re)) \nn = 0\nfor user in users:\n    n += 1\n    if n % 50 == 0:\n        sleep(1)\n    try:\n        print (\"Adding {}\".format(user['id']))",
+        "detail": "Operator.Adder",
+        "documentation": {}
+    },
+    {
+        "label": "mode",
+        "kind": 5,
+        "importPath": "Operator.Adder",
+        "description": "Operator.Adder",
+        "peekOfCode": "mode = int(input(gr+\"Input : \"+re)) \nn = 0\nfor user in users:\n    n += 1\n    if n % 50 == 0:\n        sleep(1)\n    try:\n        print (\"Adding {}\".format(user['id']))\n        if mode == 1:\n            if user['username'] == \"\":",
+        "detail": "Operator.Adder",
+        "documentation": {}
+    },
+    {
+        "label": "n",
+        "kind": 5,
+        "importPath": "Operator.Adder",
+        "description": "Operator.Adder",
+        "peekOfCode": "n = 0\nfor user in users:\n    n += 1\n    if n % 50 == 0:\n        sleep(1)\n    try:\n        print (\"Adding {}\".format(user['id']))\n        if mode == 1:\n            if user['username'] == \"\":\n                continue",
+        "detail": "Operator.Adder",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 6,
+        "importPath": "Operator.MassDM",
+        "description": "Operator.MassDM",
+        "peekOfCode": "class main():\n    def banner():\n        print(f\"\"\"\n{re} ___  _  _  ____  ____  {cy}  ___  _____  ____    \n{re}/ __)( )/ )(_  _)(  _ \\ {cy} / __)(  _  )(  _ \\   \n{re}\\__ \\ )  (  _)(_  )(_) ){cy}( (_-. )(_)(  )(_) )  \n{re}(___/(_)\\_)(____)(____/ {cy} \\___/(_____)(____/   \n            version : 2.1.0.1\n    https://youtube.com/@skidgod4444/\n    https://github.com/SkidGod4444/",
+        "detail": "Operator.MassDM",
+        "documentation": {}
+    },
+    {
+        "label": "SLEEP_TIME",
+        "kind": 5,
+        "importPath": "Operator.MassDM",
+        "description": "Operator.MassDM",
+        "peekOfCode": "SLEEP_TIME = 30\nclass main():\n    def banner():\n        print(f\"\"\"\n{re} ___  _  _  ____  ____  {cy}  ___  _____  ____    \n{re}/ __)( )/ )(_  _)(  _ \\ {cy} / __)(  _  )(  _ \\   \n{re}\\__ \\ )  (  _)(_  )(_) ){cy}( (_-. )(_)(  )(_) )  \n{re}(___/(_)\\_)(____)(____/ {cy} \\___/(_____)(____/   \n            version : 2.1.0.1\n    https://youtube.com/@skidgod4444/",
+        "detail": "Operator.MassDM",
+        "documentation": {}
+    },
+    {
+        "label": "banner",
+        "kind": 2,
+        "importPath": "Operator.Scrapper",
+        "description": "Operator.Scrapper",
+        "peekOfCode": "def banner():\n    print(f\"\"\"\n{re} ___  _  _  ____  ____  {cy}  ___  _____  ____    \n{re}/ __)( )/ )(_  _)(  _ \\ {cy} / __)(  _  )(  _ \\   \n{re}\\__ \\ )  (  _)(_  )(_) ){cy}( (_-. )(_)(  )(_) )  \n{re}(___/(_)\\_)(____)(____/ {cy} \\___/(_____)(____/   \n            version : 2.1.0.1\n    https://youtube.com/@skidgod4444/\n    https://github.com/SkidGod4444/\n    https://discord.gg/sputnik",
+        "detail": "Operator.Scrapper",
+        "documentation": {}
+    },
+    {
+        "label": "cpass",
+        "kind": 5,
+        "importPath": "Operator.Scrapper",
+        "description": "Operator.Scrapper",
+        "peekOfCode": "cpass = configparser.RawConfigParser()\ncpass.read('config.data')\ntry:\n    api_id = cpass['cred']['id']\n    api_hash = cpass['cred']['hash']\n    phone = cpass['cred']['phone']\n    client = TelegramClient(phone, api_id, api_hash)\nexcept KeyError:\n    os.system('clear')\n    banner()",
+        "detail": "Operator.Scrapper",
+        "documentation": {}
+    },
+    {
+        "label": "chats",
+        "kind": 5,
+        "importPath": "Operator.Scrapper",
+        "description": "Operator.Scrapper",
+        "peekOfCode": "chats = []\nlast_date = None\nchunk_size = 200\ngroups=[]\nresult = client(GetDialogsRequest(\n             offset_date=last_date,\n             offset_id=0,\n             offset_peer=InputPeerEmpty(),\n             limit=chunk_size,\n             hash = 0",
+        "detail": "Operator.Scrapper",
+        "documentation": {}
+    },
+    {
+        "label": "last_date",
+        "kind": 5,
+        "importPath": "Operator.Scrapper",
+        "description": "Operator.Scrapper",
+        "peekOfCode": "last_date = None\nchunk_size = 200\ngroups=[]\nresult = client(GetDialogsRequest(\n             offset_date=last_date,\n             offset_id=0,\n             offset_peer=InputPeerEmpty(),\n             limit=chunk_size,\n             hash = 0\n         ))",
+        "detail": "Operator.Scrapper",
+        "documentation": {}
+    },
+    {
+        "label": "chunk_size",
+        "kind": 5,
+        "importPath": "Operator.Scrapper",
+        "description": "Operator.Scrapper",
+        "peekOfCode": "chunk_size = 200\ngroups=[]\nresult = client(GetDialogsRequest(\n             offset_date=last_date,\n             offset_id=0,\n             offset_peer=InputPeerEmpty(),\n             limit=chunk_size,\n             hash = 0\n         ))\nchats.extend(result.chats)",
+        "detail": "Operator.Scrapper",
+        "documentation": {}
+    },
+    {
+        "label": "result",
+        "kind": 5,
+        "importPath": "Operator.Scrapper",
+        "description": "Operator.Scrapper",
+        "peekOfCode": "result = client(GetDialogsRequest(\n             offset_date=last_date,\n             offset_id=0,\n             offset_peer=InputPeerEmpty(),\n             limit=chunk_size,\n             hash = 0\n         ))\nchats.extend(result.chats)\nfor chat in chats:\n    try:",
+        "detail": "Operator.Scrapper",
+        "documentation": {}
+    },
+    {
+        "label": "g_index",
+        "kind": 5,
+        "importPath": "Operator.Scrapper",
+        "description": "Operator.Scrapper",
+        "peekOfCode": "g_index = input(gr+\"[+] Enter a Number : \"+re)\ntarget_group=groups[int(g_index)]\nprint(gr+'[+] Fetching Members...')\ntime.sleep(1)\nall_participants = []\nall_participants = client.get_participants(target_group, aggressive=True)\nprint(gr+'[+] Saving In file...')\ntime.sleep(1)\nwith open(\"members.csv\",\"w\",encoding='UTF-8') as f:\n    writer = csv.writer(f,delimiter=\",\",lineterminator=\"\\n\")",
+        "detail": "Operator.Scrapper",
+        "documentation": {}
+    },
+    {
+        "label": "all_participants",
+        "kind": 5,
+        "importPath": "Operator.Scrapper",
+        "description": "Operator.Scrapper",
+        "peekOfCode": "all_participants = []\nall_participants = client.get_participants(target_group, aggressive=True)\nprint(gr+'[+] Saving In file...')\ntime.sleep(1)\nwith open(\"members.csv\",\"w\",encoding='UTF-8') as f:\n    writer = csv.writer(f,delimiter=\",\",lineterminator=\"\\n\")\n    writer.writerow(['username','user id', 'access hash','name','group', 'group id'])\n    for user in all_participants:\n        if user.username:\n            username= user.username",
+        "detail": "Operator.Scrapper",
+        "documentation": {}
+    },
+    {
+        "label": "all_participants",
+        "kind": 5,
+        "importPath": "Operator.Scrapper",
+        "description": "Operator.Scrapper",
+        "peekOfCode": "all_participants = client.get_participants(target_group, aggressive=True)\nprint(gr+'[+] Saving In file...')\ntime.sleep(1)\nwith open(\"members.csv\",\"w\",encoding='UTF-8') as f:\n    writer = csv.writer(f,delimiter=\",\",lineterminator=\"\\n\")\n    writer.writerow(['username','user id', 'access hash','name','group', 'group id'])\n    for user in all_participants:\n        if user.username:\n            username= user.username\n        else:",
+        "detail": "Operator.Scrapper",
+        "documentation": {}
+    },
+    {
+        "label": "banner",
+        "kind": 2,
+        "importPath": "Operator.setup",
+        "description": "Operator.setup",
+        "peekOfCode": "def banner():\n\tos.system('clear')\n\tprint(f\"\"\"\n{re} ___  ____  ____  ____  ____  _  _  ___   {gr} ____  _____  _____  __   \n{re}/ __)( ___)(_  _)(_  _)(_  _)( \\( )/ __)  {gr}(_  _)(  _  )(  _  )(  )  \n{re}\\__ \\ )__)   )(    )(   _)(_  )  (( (_-.  {gr}  )(   )(_)(  )(_)(  )(__ \n{re}(___/(____) (__)  (__) (____)(_)\\_)\\___/  {gr} (__) (_____)(_____)(____)\n\t\"\"\")\ndef requirements():\n\tdef csv_lib():",
+        "detail": "Operator.setup",
+        "documentation": {}
+    },
+    {
+        "label": "requirements",
+        "kind": 2,
+        "importPath": "Operator.setup",
+        "description": "Operator.setup",
+        "peekOfCode": "def requirements():\n\tdef csv_lib():\n\t\tbanner()\n\t\tprint(gr+'['+cy+'+'+gr+']'+cy+' this may take some time ...')\n\t\tos.system(\"\"\"\n\t\t\tpip install cython numpy pandas\n\t\t\tpython -m pip install cython numpy pandas\n\t\t\t\"\"\")\n\tbanner()\n\tprint(gr+'['+cy+'+'+gr+']'+cy+' it will take upto 10 min to install csv merge.')",
+        "detail": "Operator.setup",
+        "documentation": {}
+    },
+    {
+        "label": "config_setup",
+        "kind": 2,
+        "importPath": "Operator.setup",
+        "description": "Operator.setup",
+        "peekOfCode": "def config_setup():\n\timport configparser\n\tbanner()\n\tcpass = configparser.RawConfigParser()\n\tcpass.add_section('cred')\n\txid = input(gr+\"[+] enter api ID : \"+re)\n\tcpass.set('cred', 'id', xid)\n\txhash = input(gr+\"[+] enter hash ID : \"+re)\n\tcpass.set('cred', 'hash', xhash)\n\txphone = input(gr+\"[+] enter phone number : \"+re)",
+        "detail": "Operator.setup",
+        "documentation": {}
+    },
+    {
+        "label": "merge_csv",
+        "kind": 2,
+        "importPath": "Operator.setup",
+        "description": "Operator.setup",
+        "peekOfCode": "def merge_csv():\n\timport pandas as pd\n\timport sys\n\tbanner()\n\tfile1 = pd.read_csv(sys.argv[2])\n\tfile2 = pd.read_csv(sys.argv[3])\n\tprint(gr+'['+cy+'+'+gr+']'+cy+' merging '+sys.argv[2]+' & '+sys.argv[3]+' ...')\n\tprint(gr+'['+cy+'+'+gr+']'+cy+' big files can take some time ... ')\n\tmerge = file1.merge(file2, on='username')\n\tmerge.to_csv(\"output.csv\", index=False)",
+        "detail": "Operator.setup",
+        "documentation": {}
+    },
+    {
+        "label": "update_tool",
+        "kind": 2,
+        "importPath": "Operator.setup",
+        "description": "Operator.setup",
+        "peekOfCode": "def update_tool():\n\timport requests as r\n\tbanner()\n\tsource = r.get(\"https://github.com/SkidGod4444/TeleGram-Member-Adder/blob/master/Settings/version\")\n\tif source.text == '2.1.0.1':\n\t\tprint(gr+'['+cy+'+'+gr+']'+cy+' loaded version 2.1.0.1 !\\n')\n\telse:\n\t\tprint(gr+'['+cy+'+'+gr+']'+cy+' removing old files ...')\n\t\tos.system('rm *.py');time.sleep(3)\n\t\tprint(gr+'['+cy+'+'+gr+']'+cy+' getting latest files ...')",
+        "detail": "Operator.setup",
+        "documentation": {}
+    },
+    {
+        "label": "\tinput_csv",
+        "kind": 5,
+        "importPath": "Operator.setup",
+        "description": "Operator.setup",
+        "peekOfCode": "\tinput_csv = input(gr+'['+cy+'+'+gr+']'+cy+' do you want to enable csv merge (y/n): ').lower()\n\tif input_csv == \"y\":\n\t\tcsv_lib()\n\telse:\n\t\tpass\n\tprint(gr+\"[+] Installing requierments ...\")\n\tos.system(\"\"\"\n\t\tpip install telethon requests configparser\n\t\tpython -m pip install telethon requests configparser\n\t\ttouch config.data",
+        "detail": "Operator.setup",
+        "documentation": {}
+    },
+    {
+        "label": "\tcpass",
+        "kind": 5,
+        "importPath": "Operator.setup",
+        "description": "Operator.setup",
+        "peekOfCode": "\tcpass = configparser.RawConfigParser()\n\tcpass.add_section('cred')\n\txid = input(gr+\"[+] enter api ID : \"+re)\n\tcpass.set('cred', 'id', xid)\n\txhash = input(gr+\"[+] enter hash ID : \"+re)\n\tcpass.set('cred', 'hash', xhash)\n\txphone = input(gr+\"[+] enter phone number : \"+re)\n\tcpass.set('cred', 'phone', xphone)\n\tsetup = open('config.data', 'w')\n\tcpass.write(setup)",
+        "detail": "Operator.setup",
+        "documentation": {}
+    },
+    {
+        "label": "\txid",
+        "kind": 5,
+        "importPath": "Operator.setup",
+        "description": "Operator.setup",
+        "peekOfCode": "\txid = input(gr+\"[+] enter api ID : \"+re)\n\tcpass.set('cred', 'id', xid)\n\txhash = input(gr+\"[+] enter hash ID : \"+re)\n\tcpass.set('cred', 'hash', xhash)\n\txphone = input(gr+\"[+] enter phone number : \"+re)\n\tcpass.set('cred', 'phone', xphone)\n\tsetup = open('config.data', 'w')\n\tcpass.write(setup)\n\tsetup.close()\n\tprint(gr+\"[+] setup complete !\")",
+        "detail": "Operator.setup",
+        "documentation": {}
+    },
+    {
+        "label": "\txhash",
+        "kind": 5,
+        "importPath": "Operator.setup",
+        "description": "Operator.setup",
+        "peekOfCode": "\txhash = input(gr+\"[+] enter hash ID : \"+re)\n\tcpass.set('cred', 'hash', xhash)\n\txphone = input(gr+\"[+] enter phone number : \"+re)\n\tcpass.set('cred', 'phone', xphone)\n\tsetup = open('config.data', 'w')\n\tcpass.write(setup)\n\tsetup.close()\n\tprint(gr+\"[+] setup complete !\")\ndef merge_csv():\n\timport pandas as pd",
+        "detail": "Operator.setup",
+        "documentation": {}
+    },
+    {
+        "label": "\txphone",
+        "kind": 5,
+        "importPath": "Operator.setup",
+        "description": "Operator.setup",
+        "peekOfCode": "\txphone = input(gr+\"[+] enter phone number : \"+re)\n\tcpass.set('cred', 'phone', xphone)\n\tsetup = open('config.data', 'w')\n\tcpass.write(setup)\n\tsetup.close()\n\tprint(gr+\"[+] setup complete !\")\ndef merge_csv():\n\timport pandas as pd\n\timport sys\n\tbanner()",
+        "detail": "Operator.setup",
+        "documentation": {}
+    },
+    {
+        "label": "\tsetup",
+        "kind": 5,
+        "importPath": "Operator.setup",
+        "description": "Operator.setup",
+        "peekOfCode": "\tsetup = open('config.data', 'w')\n\tcpass.write(setup)\n\tsetup.close()\n\tprint(gr+\"[+] setup complete !\")\ndef merge_csv():\n\timport pandas as pd\n\timport sys\n\tbanner()\n\tfile1 = pd.read_csv(sys.argv[2])\n\tfile2 = pd.read_csv(sys.argv[3])",
+        "detail": "Operator.setup",
+        "documentation": {}
+    },
+    {
+        "label": "\tfile1",
+        "kind": 5,
+        "importPath": "Operator.setup",
+        "description": "Operator.setup",
+        "peekOfCode": "\tfile1 = pd.read_csv(sys.argv[2])\n\tfile2 = pd.read_csv(sys.argv[3])\n\tprint(gr+'['+cy+'+'+gr+']'+cy+' merging '+sys.argv[2]+' & '+sys.argv[3]+' ...')\n\tprint(gr+'['+cy+'+'+gr+']'+cy+' big files can take some time ... ')\n\tmerge = file1.merge(file2, on='username')\n\tmerge.to_csv(\"output.csv\", index=False)\n\tprint(gr+'['+cy+'+'+gr+']'+cy+' saved file as \"output.csv\"\\n')\ndef update_tool():\n\timport requests as r\n\tbanner()",
+        "detail": "Operator.setup",
+        "documentation": {}
+    },
+    {
+        "label": "\tfile2",
+        "kind": 5,
+        "importPath": "Operator.setup",
+        "description": "Operator.setup",
+        "peekOfCode": "\tfile2 = pd.read_csv(sys.argv[3])\n\tprint(gr+'['+cy+'+'+gr+']'+cy+' merging '+sys.argv[2]+' & '+sys.argv[3]+' ...')\n\tprint(gr+'['+cy+'+'+gr+']'+cy+' big files can take some time ... ')\n\tmerge = file1.merge(file2, on='username')\n\tmerge.to_csv(\"output.csv\", index=False)\n\tprint(gr+'['+cy+'+'+gr+']'+cy+' saved file as \"output.csv\"\\n')\ndef update_tool():\n\timport requests as r\n\tbanner()\n\tsource = r.get(\"https://github.com/SkidGod4444/TeleGram-Member-Adder/blob/master/Settings/version\")",
+        "detail": "Operator.setup",
+        "documentation": {}
+    },
+    {
+        "label": "\tmerge",
+        "kind": 5,
+        "importPath": "Operator.setup",
+        "description": "Operator.setup",
+        "peekOfCode": "\tmerge = file1.merge(file2, on='username')\n\tmerge.to_csv(\"output.csv\", index=False)\n\tprint(gr+'['+cy+'+'+gr+']'+cy+' saved file as \"output.csv\"\\n')\ndef update_tool():\n\timport requests as r\n\tbanner()\n\tsource = r.get(\"https://github.com/SkidGod4444/TeleGram-Member-Adder/blob/master/Settings/version\")\n\tif source.text == '2.1.0.1':\n\t\tprint(gr+'['+cy+'+'+gr+']'+cy+' loaded version 2.1.0.1 !\\n')\n\telse:",
+        "detail": "Operator.setup",
+        "documentation": {}
+    },
+    {
+        "label": "\tsource",
+        "kind": 5,
+        "importPath": "Operator.setup",
+        "description": "Operator.setup",
+        "peekOfCode": "\tsource = r.get(\"https://github.com/SkidGod4444/TeleGram-Member-Adder/blob/master/Settings/version\")\n\tif source.text == '2.1.0.1':\n\t\tprint(gr+'['+cy+'+'+gr+']'+cy+' loaded version 2.1.0.1 !\\n')\n\telse:\n\t\tprint(gr+'['+cy+'+'+gr+']'+cy+' removing old files ...')\n\t\tos.system('rm *.py');time.sleep(3)\n\t\tprint(gr+'['+cy+'+'+gr+']'+cy+' getting latest files ...')\n\t\tos.system(\"\"\"\n\t\t\tcurl -s -O https://github.com/SkidGod4444/TeleGram-Member-Adder/blob/master/Operator/Adder.py\n\t\t\tcurl -s -O https://github.com/SkidGod4444/TeleGram-Member-Adder/blob/master/Operator/MassDM.py",
+        "detail": "Operator.setup",
+        "documentation": {}
+    }
+]
