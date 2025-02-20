@@ -4,14 +4,6 @@
 
 <p align="center"><img src="https://img.shields.io/badge/Version-2.1.0.1-brightgreen"></p>
 <p align="center">
-  <a href="https://github.com/th3unkn0n">
-    <img src="https://img.shields.io/github/followers/SkidGod4444?label=Follow&style=social">
-  </a>
-  <a href="https://github.com/SkidGod4444/TeleGram-Member-Adder">
-    <img src="https://img.shields.io/github/stars/SkidGod4444/TeleGram-Member-Adder?style=social">
-  </a>
-</p>
-<p align="center">
   Telegram Member Adder 
 </p>
 <p align="center">
